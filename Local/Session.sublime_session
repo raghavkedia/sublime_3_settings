@@ -1,0 +1,1011 @@
+{
+	"folder_history":
+	[
+		"/Users/raghav.kedia/src/website"
+	],
+	"last_version": 3114,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 751.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"demo",
+						"demo_users	module"
+					],
+					[
+						"mi",
+						"mixins	module"
+					],
+					[
+						"mul",
+						"multiple_fund_error	statement"
+					],
+					[
+						"csv",
+						"csv_validator	(models.py)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 252.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 259.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/raghav.kedia/src/website/utilities/tests/test_demo_user_creation.py",
+				"/Users/raghav.kedia/src/website/sales/models.py",
+				"/Users/raghav.kedia/src/website/utilities/mixins.py",
+				"/Users/raghav.kedia/src/website/megalogger/mongo_models.py",
+				"/Users/raghav.kedia/src/website/advisors/models.py",
+				"/Users/raghav.kedia/src/website/emaillog/admin.py",
+				"/Users/raghav.kedia/src/website/funds/funds/templates/funds/includes/document.html",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/setup_script.py",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/create_demo_users.py",
+				"/Users/raghav.kedia/src/website/funds/funds/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/serializers.py",
+				"/Users/raghav.kedia/src/website/salesforce/models.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/scripts/populate_activity_for_org.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/tests/test_serializers.py",
+				"/Users/raghav.kedia/src/website/sales/views.py",
+				"/Users/raghav.kedia/src/website/sales/tests/test_permissions.py",
+				"/Users/raghav.kedia/src/website/sales/api/views.py",
+				"/Users/raghav.kedia/src/website/sales/api/permissions.py",
+				"/Users/raghav.kedia/src/website/sales/permissions.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/raghav.kedia/src/website/funds/prospect/models.py",
+				"/Users/raghav.kedia/src/website/investor/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/scripts/populate_activity.py",
+				"/Users/raghav.kedia/src/website/userprofile/api.py",
+				"/Users/raghav.kedia/src/website/userprofile/models.py",
+				"/Users/raghav.kedia/src/website/userprofile/views.py",
+				"/Users/raghav.kedia/src/website/investor/tests/test_views.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/middleware.py",
+				"/Users/raghav.kedia/src/website/userprofile/pipeline.py",
+				"/Users/raghav.kedia/src/website/advisors/views.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/wsgi.py",
+				"/Users/raghav.kedia/src/website/sales/tests/__init__.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/constants.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/Default (OSX).sublime-keymap",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/Users/raghav.kedia/src/website/investor/constants.py",
+				"/Users/raghav.kedia/src/website/funds/investments/forms.py",
+				"/Users/raghav.kedia/src/website/funds/investments/models.py",
+				"/Users/raghav.kedia/src/website/utilities/files/csv_validator.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/models.py",
+				"/Users/raghav.kedia/src/website/utilities/testing/base.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/raghav.kedia/src/website/Package Control Messages"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+					"*.py",
+					"~/src/website",
+					"*.py"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"invite",
+					"Document View",
+					".js",
+					"action_type",
+					"init",
+					"get_visible",
+					"Document View",
+					"action_type",
+					"tab",
+					"action_type",
+					"send_fund_usage",
+					"fund_tracking_event",
+					"action_type=",
+					"tracking_event_important",
+					"tracking",
+					"Signal",
+					"Signal.connect()",
+					"fund_tr",
+					"fund_tracking_event",
+					"\"Tab",
+					"tab",
+					"action_type",
+					"action_type='Tab'",
+					"action_type=\"Tab\"",
+					"action_type",
+					"Tab",
+					"Document View",
+					"action_type",
+					"engagement",
+					"AjaxableResponseMixin",
+					"SalesView(",
+					"orgpermissionmixin",
+					"salesview",
+					"orgpermissionmixin",
+					"publicwebsite.wsgi",
+					"engagement",
+					"send",
+					"tracking_event",
+					"UserFUndACtiv",
+					"tracking_event",
+					"UserFund",
+					"UserFundACt",
+					"fund_tracking",
+					"tracking_ev",
+					"UserFundActi",
+					"tracking",
+					"megalogger",
+					"fund_tracking_event_megalogger",
+					"activity.save()",
+					"LogActivity",
+					"UserFundActivity",
+					"mongo",
+					"redirect",
+					"ipdb",
+					"reverse(\"login\")",
+					"redirect_to",
+					"redirect_url",
+					"assertRedirects",
+					"SERVER_NAME=",
+					"testserver",
+					"assertRedirects",
+					"import redirect",
+					"login",
+					"redirect",
+					"OrgPermissionMixin",
+					"interested_party_info_joint",
+					"corporation",
+					"ValidateCSV",
+					"csv",
+					"site",
+					"site=",
+					"line",
+					"1",
+					"79",
+					"column",
+					"line",
+					"site",
+					"sitewhite",
+					"site_1",
+					"site_0",
+					"site"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"megalogger/scr",
+						"megalogger/scripts/populate_activity_for_org.py"
+					],
+					[
+						"publicwebsite/ws",
+						"publicwebsite/wsgi.py"
+					],
+					[
+						"sales/tests/",
+						"sales/tests/__init__.py"
+					],
+					[
+						"funds/prospect/m",
+						"funds/prospect/models.py"
+					],
+					[
+						"base",
+						"utilities/testing/base.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 1320.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 50.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"demo",
+						"demo_users	module"
+					],
+					[
+						"mi",
+						"mixins	module"
+					],
+					[
+						"mul",
+						"multiple_fund_error	statement"
+					],
+					[
+						"csv",
+						"csv_validator	(models.py)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/raghav.kedia/src/website/utilities/demo_users/create_demo_users.py",
+					"settings":
+					{
+						"buffer_size": 7561,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/raghav.kedia/src/website/utilities/demo_users/setup_script.py",
+					"settings":
+					{
+						"buffer_size": 441,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/raghav.kedia/src/website/utilities/demo_users/constants.py",
+					"settings":
+					{
+						"buffer_size": 7781,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/raghav.kedia/src/website/utilities/tests/test_demo_user_creation.py",
+					"settings":
+					{
+						"buffer_size": 1265,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/raghav.kedia/src/website/utilities/testing/base.py",
+					"settings":
+					{
+						"buffer_size": 35859,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 252.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 259.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/raghav.kedia/src/website",
+				"/Users/raghav.kedia/src/website/sales/tests",
+				"/Users/raghav.kedia/src/website/utilities",
+				"/Users/raghav.kedia/src/website/utilities/demo_users",
+				"/Users/raghav.kedia/src/website/utilities/tests"
+			],
+			"file_history":
+			[
+				"/Users/raghav.kedia/src/website/sales/models.py",
+				"/Users/raghav.kedia/src/website/utilities/mixins.py",
+				"/Users/raghav.kedia/src/website/megalogger/mongo_models.py",
+				"/Users/raghav.kedia/src/website/advisors/models.py",
+				"/Users/raghav.kedia/src/website/emaillog/admin.py",
+				"/Users/raghav.kedia/src/website/funds/funds/templates/funds/includes/document.html",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/setup_script.py",
+				"/Users/raghav.kedia/src/website/utilities/tests/test_demo_user_creation.py",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/create_demo_users.py",
+				"/Users/raghav.kedia/src/website/funds/funds/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/serializers.py",
+				"/Users/raghav.kedia/src/website/salesforce/models.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/scripts/populate_activity_for_org.py",
+				"/Users/raghav.kedia/src/website/megalogger/api/tests/test_serializers.py",
+				"/Users/raghav.kedia/src/website/sales/views.py",
+				"/Users/raghav.kedia/src/website/sales/tests/test_permissions.py",
+				"/Users/raghav.kedia/src/website/sales/api/views.py",
+				"/Users/raghav.kedia/src/website/sales/api/permissions.py",
+				"/Users/raghav.kedia/src/website/sales/permissions.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/raghav.kedia/src/website/funds/prospect/models.py",
+				"/Users/raghav.kedia/src/website/investor/views.py",
+				"/Users/raghav.kedia/src/website/megalogger/scripts/populate_activity.py",
+				"/Users/raghav.kedia/src/website/userprofile/api.py",
+				"/Users/raghav.kedia/src/website/userprofile/models.py",
+				"/Users/raghav.kedia/src/website/userprofile/views.py",
+				"/Users/raghav.kedia/src/website/investor/tests/test_views.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/middleware.py",
+				"/Users/raghav.kedia/src/website/userprofile/pipeline.py",
+				"/Users/raghav.kedia/src/website/advisors/views.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/wsgi.py",
+				"/Users/raghav.kedia/src/website/sales/tests/__init__.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/Users/raghav.kedia/src/website/utilities/demo_users/constants.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/Default (OSX).sublime-keymap",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/Users/raghav.kedia/src/website/investor/constants.py",
+				"/Users/raghav.kedia/src/website/funds/investments/forms.py",
+				"/Users/raghav.kedia/src/website/funds/investments/models.py",
+				"/Users/raghav.kedia/src/website/utilities/files/csv_validator.py",
+				"/Users/raghav.kedia/src/website/publicwebsite/models.py",
+				"/Users/raghav.kedia/src/website/utilities/testing/base.py",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/Users/raghav.kedia/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/raghav.kedia/src/website/Package Control Messages"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+					"*.py",
+					"~/src/website",
+					"*.py"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"invite",
+					"Document View",
+					".js",
+					"action_type",
+					"init",
+					"get_visible",
+					"Document View",
+					"action_type",
+					"tab",
+					"action_type",
+					"send_fund_usage",
+					"fund_tracking_event",
+					"action_type=",
+					"tracking_event_important",
+					"tracking",
+					"Signal",
+					"Signal.connect()",
+					"fund_tr",
+					"fund_tracking_event",
+					"\"Tab",
+					"tab",
+					"action_type",
+					"action_type='Tab'",
+					"action_type=\"Tab\"",
+					"action_type",
+					"Tab",
+					"Document View",
+					"action_type",
+					"engagement",
+					"AjaxableResponseMixin",
+					"SalesView(",
+					"orgpermissionmixin",
+					"salesview",
+					"orgpermissionmixin",
+					"publicwebsite.wsgi",
+					"engagement",
+					"send",
+					"tracking_event",
+					"UserFUndACtiv",
+					"tracking_event",
+					"UserFund",
+					"UserFundACt",
+					"fund_tracking",
+					"tracking_ev",
+					"UserFundActi",
+					"tracking",
+					"megalogger",
+					"fund_tracking_event_megalogger",
+					"activity.save()",
+					"LogActivity",
+					"UserFundActivity",
+					"mongo",
+					"redirect",
+					"ipdb",
+					"reverse(\"login\")",
+					"redirect_to",
+					"redirect_url",
+					"assertRedirects",
+					"SERVER_NAME=",
+					"testserver",
+					"assertRedirects",
+					"import redirect",
+					"login",
+					"redirect",
+					"OrgPermissionMixin",
+					"interested_party_info_joint",
+					"corporation",
+					"ValidateCSV",
+					"csv",
+					"site",
+					"site=",
+					"line",
+					"1",
+					"79",
+					"column",
+					"line",
+					"site",
+					"sitewhite",
+					"site_1",
+					"site_0",
+					"site"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/raghav.kedia/src/website"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/raghav.kedia/src/website/utilities/demo_users/create_demo_users.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7561,
+								"regions":
+								{
+									"bp-12f9202d":
+									{
+										"flags": 16,
+										"icon": "circle",
+										"regions":
+										[
+											[
+												2895,
+												2895
+											]
+										],
+										"scope": "invalid"
+									}
+								},
+								"selection":
+								[
+									[
+										2567,
+										2567
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1196.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/raghav.kedia/src/website/utilities/demo_users/setup_script.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										441,
+										441
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/raghav.kedia/src/website/utilities/demo_users/constants.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7781,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										871,
+										871
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/raghav.kedia/src/website/utilities/tests/test_demo_user_creation.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1265,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										296,
+										296
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"history_list_is_closing": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/raghav.kedia/src/website/utilities/testing/base.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2035,
+										2102
+									],
+									[
+										2116,
+										2166
+									],
+									[
+										2180,
+										2228
+									],
+									[
+										2242,
+										2287
+									],
+									[
+										2302,
+										2387
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 6.0,
+								"translation.y": 1113.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/Users/raghav.kedia/src/website/utilities/tests/test_demo_user_creation.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1265,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										861,
+										861
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"history_list_is_closing": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"default_dir": "/Users/raghav.kedia/src/website",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/raghav.kedia/src/website/utilities/testing/base.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 276.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.952061361457,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 1 4 1279 773 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"utilities/tests/",
+						"utilities/tests/test_demo_user_creation.py"
+					],
+					[
+						"base",
+						"utilities/testing/base.py"
+					],
+					[
+						"utilities/tests/test",
+						"utilities/tests/test_demo_user_creation.py"
+					],
+					[
+						"megalogger/scr",
+						"megalogger/scripts/populate_activity_for_org.py"
+					],
+					[
+						"publicwebsite/ws",
+						"publicwebsite/wsgi.py"
+					],
+					[
+						"sales/tests/",
+						"sales/tests/__init__.py"
+					],
+					[
+						"funds/prospect/m",
+						"funds/prospect/models.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 1320.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 236.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
